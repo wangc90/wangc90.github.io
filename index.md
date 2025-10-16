@@ -5,7 +5,7 @@ Welcome to my GitHub Pages website!
 ## About Me
 I am a Computational Biologist Postdoc at Uchicago interested in cancer genomics, machine learning and statistics.
 
-## Projects
+## ML Projects
 - [Project 1](https://github.com/wangc90/AE_Data_Integration)
 - [Project 2](https://github.com/wangc90/CircCNNs)
 
