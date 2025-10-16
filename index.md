@@ -2,6 +2,8 @@
 
 Welcome to my GitHub Pages website!
 
+![Profile Picture](images/jump.JPG)
+
 ## About Me
 I am a Postdoc Scholar at Uchicago working on cancer genomics, machine learning and statistics. Recently I have been studying Rust and plan to host my webpage on my local server soon!!
 
@@ -17,6 +19,10 @@ I am a Postdoc Scholar at Uchicago working on cancer genomics, machine learning 
 - [Wang, C. and Liang, C. (2024) CircCNNs, a convolutional neural network framework to better understand the biogenesis of exonic circRNAs. Sci. Rep.](https://www.nature.com/articles/s41598-024-69262-1)
 
 - [Wang, C. and Liang, C. (2022) The insertion and dysregulation of transposable elements in osteosarcoma and their association with patient event-free survival. Sci. Rep.](https://www.nature.com/articles/s41598-021-04208-5)
+
+## Awards
+- Outstanding scholarship with a Comer-Reynolds Award. Department of Statistics, Miami University (2024)
+- Outstanding scholarship with an ENAR Membership. Department of Statistics, Miami University (2024)
 
 ## Contact
 Email: [wangc90@uchicago.edu](mailto:wangc90@uchicago.edu)
