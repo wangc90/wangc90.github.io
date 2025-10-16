@@ -1,5 +1,4 @@
 # Site settings
-title: "My Personal Website"
 description: "Welcome to my GitHub Pages site"
 url: "https://wangc90.github.io"
 baseurl: ""   # leave empty for user/organization pages
