@@ -10,8 +10,7 @@ I am a Computational Biologist Postdoc at Uchicago interested in cancer genomics
 - [Project 2](https://github.com/wangc90/CircCNNs)
 
 ## Publications
-- (Wang, C. and O’Connell, Michael J. (2025) Autoencoders with shared and specific
-embeddings for multi-omic data integration. BMC Bioinformatics)
+- [Wang, C. and O’Connell, Michael J. (2025) Autoencoders with shared and specific embeddings for multi-omic data integration. BMC Bioinformatics] (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06245-7)
 
 ## Contact
 Email: [wangc90@uchicago.edu](mailto:wangc90@uchicago.edu)
