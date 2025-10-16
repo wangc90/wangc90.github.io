@@ -3,7 +3,7 @@
 Welcome to my GitHub Pages website!
 
 ## About Me
-I am a Computational Biologist Postdoc at Uchicago interested in cancer genomics, machine learning and statistics.
+I am a Postdoc Scholar at Uchicago working on cancer genomics, machine learning and statistics. Recently I have been studying Rust and plan to host my webpage on my local server soon!!
 
 ## ML Projects
 - [Project 1](https://github.com/wangc90/AE_Data_Integration)
