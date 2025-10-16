@@ -15,5 +15,3 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-feed  # optional RSS feed
- 
-css_path: "/assets/css/style.css"
