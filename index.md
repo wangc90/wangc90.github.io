@@ -1,5 +1,5 @@
 # Hello, I'm Chao 👋
-<img src="assets/images/jump.JPG" alt="Profile" width="200">
+<img src="images/jump.JPG" alt="Profile" width="200">
 
 Welcome to my GitHub Pages website!
 
