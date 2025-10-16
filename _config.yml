@@ -17,4 +17,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed  # optional RSS feed
   
-<link rel="stylesheet" href="assets/css/style.css">
+css_path: "/assets/css/style.css"
