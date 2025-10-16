@@ -10,7 +10,7 @@ author:
   email: "wangc90@uchicago.edu"
 
 # Theme (choose a GitHub-supported theme)
-theme: minima
+theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
