@@ -2,7 +2,9 @@
 
 Welcome to my GitHub Pages website!
 
-![Profile Picture](images/jump.JPG)
+
+<img src="images/jump.JPG" alt="Profile" width="200">
+
 
 ## About Me
 I am a Postdoc Scholar at Uchicago working on cancer genomics, machine learning and statistics. Recently I have been studying Rust and plan to host my webpage on my local server soon!!
@@ -26,3 +28,4 @@ I am a Postdoc Scholar at Uchicago working on cancer genomics, machine learning 
 
 ## Contact
 Email: [wangc90@uchicago.edu](mailto:wangc90@uchicago.edu)
+Linkedin: [https://www.linkedin.com/in/chao-wang-92a099210/](https://www.linkedin.com/in/chao-wang-92a099210/) 
